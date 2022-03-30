@@ -12,4 +12,5 @@
 
 ###### Integrantes
 
+  - Villarreal Maldonado Jorge Manuel - 307312637
 	- **Villegas Salvador Kevin Ricardo - *314173739***
